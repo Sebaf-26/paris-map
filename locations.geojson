@@ -6,7 +6,7 @@
       "properties": {
         "name": "59 Rivoli",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
         "name": "Tour Saint-Jacques",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "name": "Chiesa di Saint-Merri",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1670-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "name": "Fontana Stravinsky",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1580-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "name": "Chiesa dei Santi Gervasio e Protasio",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1670-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
       "properties": {
         "name": "Rue des Barres",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1535-A52714-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
         "name": "Memoriale della Shoah",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1636-F9A825-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "name": "Arco di Trionfo del Carosello",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
       "properties": {
         "name": "Galerie Vivienne",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
       "properties": {
         "name": "Centro Pompidou di Parigi",
         "description": "con vista panoramica",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1636-F9A825"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
       "properties": {
         "name": "Museum of Hunting and Nature",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1636-F9A825-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
       "properties": {
         "name": "Canal Saint-Martin",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1535-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
         "name": "Piazza della Bastiglia",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1535-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "properties": {
         "name": "Marché des Enfants Rouges",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
         "name": "Rue Crémieux",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
       "properties": {
         "name": "Coulée verte René-Dumont",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
         "name": "Cimitero del Père-Lachaise",
         "description": "Qui si trovano le tombe di Balzac, Oscar Wilde, Delacroix, Modigliani, Jim Morrison e Chopin",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1670-0288D1"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
       "properties": {
         "name": "Shakespeare and Company",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1577-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@
       "properties": {
         "name": "Fontaine Saint-Michel",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1580-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@
       "properties": {
         "name": "Muro dei ti amo",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
       "properties": {
         "name": "Street Art in tutto il XIII arrondissement",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1535-A52714-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
       "properties": {
         "name": "Chiesa di Santo Stefano del Monte",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1670-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@
       "properties": {
         "name": "Moulin de la Galette",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@
       "properties": {
         "name": "Arco de La Défense",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@
       "properties": {
         "name": "Biblioteca nazionale di Francia - Sito Richelieu",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1636-F9A825-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +381,7 @@
       "properties": {
         "name": "Tour Montparnasse",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1535-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@
       "properties": {
         "name": "quartiere Batignolles",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@
       "properties": {
         "name": "Quartier de la Mouzaïa",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@
       "properties": {
         "name": "Dodo Manège",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@
       "properties": {
         "name": "Cattedrale di Notre-Dame",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1670-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@
       "properties": {
         "name": "Le Passe-Muraille",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@
       "properties": {
         "name": "Giardino delle serre d'Auteuil",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1899-0288D1-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@
       "properties": {
         "name": "30 Rue René Boulanger",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1517-FFEA00-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +516,7 @@
       "properties": {
         "name": "5 Rue Sedaine",
         "description": "Old Fashioned",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1517-FFEA00"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
       "properties": {
         "name": "51 Rue du Faubourg Saint-Denis",
         "description": "cocktail a base di liquori francesi “dimenticati”.",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1517-FFEA00"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +546,7 @@
       "properties": {
         "name": "60 Rue Charlot",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1517-FFEA00-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@
       "properties": {
         "name": "6 Rue Vivienne nel retro del ristorante Daroco",
         "description": "cocktail sperimentali, creati dal celebre mixologist Nico de Soto.",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1517-FFEA00"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@
       "properties": {
         "name": "Gare de Lyon",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1716-9C27B0-nodesc"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +591,7 @@
       "properties": {
         "name": "30 Rue St Charles",
         "description": "",
-        "styleUrl": "#icon-1899-0288D1"
+        "styleUrl": "#icon-1602-9C27B0-nodesc"
       },
       "geometry": {
         "type": "Point",
