@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3456696,
+          48.8592184
         ]
       }
     },
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3489072,
+          48.8580685
         ]
       }
     },
@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3508751,
+          48.859126
         ]
       }
     },
@@ -56,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.351546,
+          48.859478
         ]
       }
     },
@@ -71,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3544587,
+          48.8556133
         ]
       }
     },
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.355261,
+          48.8553427
         ]
       }
     },
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3562052,
+          48.8549507
         ]
       }
     },
@@ -116,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3329246,
+          48.861723
         ]
       }
     },
@@ -131,8 +131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3394854,
+          48.8663533
         ]
       }
     },
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.352245,
+          48.860642
         ]
       }
     },
@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3587005,
+          48.8614056
         ]
       }
     },
@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3671263,
+          48.8689404
         ]
       }
     },
@@ -191,68 +191,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3691443,
+          48.8531827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "March\u00e9 des Enfants Rouges",
+        "name": "Marché des Enfants Rouges",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3620004,
+          48.862755
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue Cr\u00e9mieux",
+        "name": "Rue Crémieux",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3701889,
+          48.8464552
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Coul\u00e9e verte Ren\u00e9-Dumont",
+        "name": "Coulée verte René-Dumont",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3714863,
+          48.8494548
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cimitero del P\u00e8re-Lachaise",
+        "name": "Cimitero del Père-Lachaise",
         "icon": "cross",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3934725,
+          48.861472
         ]
       }
     },
@@ -266,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3471303,
+          48.8525632
         ]
       }
     },
@@ -281,8 +281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3437736,
+          48.8532372
         ]
       }
     },
@@ -296,8 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.338578,
+          48.8848037
         ]
       }
     },
@@ -311,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3598969,
+          48.8261675
         ]
       }
     },
@@ -326,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3480897,
+          48.8465392
         ]
       }
     },
@@ -341,30 +341,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3371292,
+          48.8873961
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Arco de La D\u00e9fense",
+        "name": "Arco de La Défense",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.2361121,
+          48.8925978
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Biblioteca nazionale di Francia - Sito Fran\u00e7ois-Mitterrand",
+        "name": "Biblioteca nazionale di Francia - Sito François-Mitterrand",
         "icon": "museum",
         "color": "orange"
       },
@@ -386,8 +386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3219514,
+          48.8421379
         ]
       }
     },
@@ -401,38 +401,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3139467,
+          48.887341
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Quartier de la Mouza\u00efa",
+        "name": "Quartier de la Mouzaïa",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3938225,
+          48.8810751
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Dodo Man\u00e8ge",
+        "name": "Dodo Manège",
         "icon": "marker",
         "color": "blue"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3616996,
+          48.8430956
         ]
       }
     },
@@ -446,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3820075,
+          48.8948542
         ]
       }
     },
@@ -461,8 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3499021,
+          48.8529682
         ]
       }
     },
@@ -476,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3380417,
+          48.8875533
         ]
       }
     },
@@ -491,23 +491,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.2521865,
+          48.8463076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "30 Rue Ren\u00e9 Boulanger",
+        "name": "30 Rue René Boulanger",
         "icon": "shopping_cart",
         "color": "yellow"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3617895,
+          48.8685977
         ]
       }
     },
@@ -521,8 +521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.371188,
+          48.8556922
         ]
       }
     },
@@ -536,8 +536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3536501,
+          48.8718637
         ]
       }
     },
@@ -551,8 +551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3649962,
+          48.8647628
         ]
       }
     },
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.3743773,
+          48.8443038
         ]
       }
     },
@@ -596,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          2.2887502,
+          48.8505353
         ]
       }
     }
